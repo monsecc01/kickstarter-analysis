@@ -42,8 +42,8 @@ A limitation of the Kickstarted Data set is that outliers are not identified. Th
 Another limitation is that we do not know if the outcomes were solely due to the dollar goal or the launch date; there are external factors that the data set does not account for. It would be useful to know the reason for canceled and failed outcomes.
 
 #### What are some other possible tables and/or graphs that we could create?
-A recommendation is to perform a deeper analysis of successful play to further investigate factors of success based on the data we have. 
+It is recommended to perform a deeper analysis of successful Plays to further investigate factors of success: 
 * Creating a bar chart for Backers vs Pledged will allow us to understand donor contribution. 
-* We could also analyze success data based on country by creating a Country vs Outcomes bar chart to see if success differs in other countries. 
+* We could also analyze success data based on country by creating a Country vs Outcomes bar chart to see if success differs outside the US. 
 * Lastly, to dig further into the launch dates we could compare length of campaigns to see if overall campaign duration affects outcomes. We would need to calculate campaign duration in days and create a line graph depicting percentage of successful, failed, canceled campaigns.
 
