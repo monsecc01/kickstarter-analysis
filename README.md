@@ -22,7 +22,8 @@ To evaluate the outcomes based on Goals, a new sheet was populated using the COU
 ### Challenges and Difficulties Encountered
 One of the biggest difficulties faced during the creation of Outcomes based on Goals was the number of manual calculations and long COUNTIFS() syntax. Due to the different dollar ranges and outcome categories, every cell had to be calculated differently with multiple COUNTIFS() ranges and criteria. This allowed for entry and calculation errors, requiring data to be double-checked. One way to check the data is to filter through the Kickstarter Data by the respective outcome, dollar ranges and subcategory and count how many rows are displayed. A quicker alternative is to use a pivot table to automatically count the sum of values. We could reuse our pivot table created for Subcategories and compare the sums for succesful, failed, and canceled projects.
 ![COUNTIFS_example](https://user-images.githubusercontent.com/81447450/112730499-e8e41b00-8eff-11eb-89a7-63efae03399f.png)
-![Pivot_SubCategories](https://user-images.githubusercontent.com/81447450/112732800-1afa7a80-8f0a-11eb-9b04-7f22a3e8fd9f.png)
+<img width="322" alt="Pivot_SubCategories" src="https://user-images.githubusercontent.com/81447450/112732822-4c734600-8f0a-11eb-9e4d-587e8cfc0363.png">
+
 
 
 ## Results
